@@ -1,7 +1,5 @@
 # Openfi-Bot
 
-## Features
-
 | Feature                |
 |------------------------|
 | Auto Get Account Info  |
