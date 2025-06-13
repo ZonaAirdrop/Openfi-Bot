@@ -111,10 +111,10 @@ class OpenFi:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}OpenFi{Fore.BLUE + Style.BRIGHT} Automation Bot - CDY
+        {Fore.GREEN + Style.BRIGHT}OpenFi{Fore.BLUE + Style.BRIGHT} Openfi Bot Otomatis 
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Creator {Fore.YELLOW + Style.BRIGHT}<Cryptodai3 X YetiDAO>
+        {Fore.GREEN + Style.BRIGHT}Creator {Fore.YELLOW + Style.BRIGHT}ZONA AIRDROP
             """
         )
 
