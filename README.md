@@ -73,3 +73,17 @@ python3 bot.py
 ```
 > This will execute the bot script using your accounts and proxies (if provided).
 
+## ⚠️ Warning
+
+> ⚠️ **This bot requires your private keys to operate.**
+> Please use with caution. Do **not** use your main wallet or any wallet that contains valuable assets. Always test with a fresh or burner wallet first.
+
+We are not responsible for any loss of funds or misuse of private keys. Use at your own risk.
+
+---
+
+## 📢 Join Our Telegram Group
+
+For updates, questions, and support:
+👉 [https://t.me/ZonaAirdr0p](https://t.me/ZonaAirdr0p)
+
