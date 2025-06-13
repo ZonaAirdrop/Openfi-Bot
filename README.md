@@ -77,7 +77,12 @@ python3 bot.py
 
 We are not responsible for any loss of funds or misuse of private keys. Use at your own risk.
 
----
+## ✅ Recommended Safety Guidelines
+
+- Run this bot inside a virtual environment or on an isolated VPS to reduce security risks.
+- Always use a fresh burner wallet dedicated only to airdrop farming — never use your main wallet.
+- Do not modify the script or install additional libraries unless you fully understand what they do.
+
 
 ## 📢 Join Our Telegram Group
 
