@@ -10,9 +10,6 @@
 | Auto Withdraw          |
 | Proxy Modes            |
 
-Tentu! Berikut adalah versi **bahasa Inggris** dari instruksi menjalankan **Openfi-Bot**, sudah dirapikan dan cocok untuk README.md:
-
----
 
 ### 🚀 **Steps to Run Openfi-Bot**
 
